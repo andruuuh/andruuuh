@@ -8,7 +8,7 @@
 
 In the meantime here is a Catvideo on Youtube. Why? Cause everyone loves silly cats. Don't we?
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=hY7m5jjJ9mM??autoplay=1&mute=1" target="_blank"><img src="http://img.youtube.com/vi/hY7m5jjJ9mM/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=hY7m5jjJ9mM?autoplay=1&mute=1" target="_blank"><img src="http://img.youtube.com/vi/hY7m5jjJ9mM/0.jpg" 
 alt="That's why we love cats!" width="350" height="250" border="15" /></a>
 
 <!--
